@@ -1,11 +1,11 @@
 name: VanishNoPickup
 main: com.nilla.vanishnopickup.VanishNoPickup
-version: 1.9.12
-author: EvilNilla
+version: 2.0.0
+authors: [EvilNilla, Acrobot]
 commands:
   vanish:
     description: Toggles your visibility
-    aliases: poof
+    aliases: [poof]
     usage: |
            Incorrect usage of /<command>. Examples:
            /<command> - Toggles your visibility

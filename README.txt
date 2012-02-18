@@ -1,1 +1,1 @@
-README for Vanish
+VanishNoPickup updated version

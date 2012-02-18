@@ -1,7 +1,30 @@
-.classpath
-.project
-bin/
-.settings/target
+# Eclipse stuff
+/.classpath
+/.project
 /.settings
+
+# we use maven!
+/build.xml
+
+# maven
 /target
-VanishNoPickup.jar
+
+# vim
+.*.sw[a-p]
+
+# various other potential build files
+/build
+/bin
+/dist
+/manifest.mf
+
+/world
+
+# Mac filesystem dust
+/.DS_Store
+
+# intellij
+*.iml
+*.ipr
+*.iws
+.idea/
